@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+}
 #main {
   background: radial-gradient(
       circle,
@@ -7,6 +13,17 @@
     ),
     url(../images/7th_march.jpg) center center/cover no-repeat;
 }
-header {
-  color: aliceblue;
+#header {
+  color: #c9f227;
+  text-align: center;
+}
+#heading {
+  padding-top: 40px;
+}
+#sub-heading {
+  padding: 0;
+}
+
+.image {
+  height: 400px;
 }
