@@ -1,0 +1,12 @@
+#main {
+  background: radial-gradient(
+      circle,
+      rgba(9, 121, 52, 0.5) 0%,
+      rgba(255, 0, 0, 0.5) 0%,
+      rgba(9, 121, 52, 0.5) 61%
+    ),
+    url(../images/7th_march.jpg) center center/cover no-repeat;
+}
+header {
+  color: aliceblue;
+}
